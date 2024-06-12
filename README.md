@@ -1,6 +1,6 @@
 # Hi there, I'm Bagyalakshmi S Shinde 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile/)](https://www.linkedin.com/in/yourprofile/)
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bagyalakshmi-s-shinde-048559246)]
 [![GitHub followers](https://img.shields.io/github/followers/Bagyalakshmi1429?label=Follow&style=social)](https://github.com/Bagyalakshmi1429/?tab=follow)
 
 
