@@ -23,7 +23,6 @@
 
 ### Frameworks & Libraries
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 - ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 - ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
 - ![Matplotlib](https://img.shields.io/badge/-Matplotlib-007ACC?style=flat-square&logo=Matplotlib&logoColor=white)
