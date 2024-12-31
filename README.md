@@ -1,6 +1,5 @@
 # Hi there, I'm Bagyalakshmi S Shinde 👋
-
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bagyalakshmi-s-shinde-048559246)]
+![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bagyalakshmi-s-shinde-048559246)
 [![GitHub followers](https://img.shields.io/github/followers/Bagyalakshmi1429?label=Follow&style=social)](https://github.com/Bagyalakshmi1429/?tab=follow)
 
 
@@ -8,8 +7,8 @@
 
 ## 🌟 About Me
 
- I am a dedicated data scientist with a passion for uncovering insights from data and developing predictive models. Proficient in Python for data analysis, machine learning, NLP, and CV, I excel at using data visualization tools to effectively communicate findings. I enjoy contributing to open-source projects and continuously expanding my knowledge in data science and related technologies. 
-- 🌱 I’m currently learning *Python and LLM*
+Currently pursuing a Master's degree in Artificial Intelligence and Machine Learning at Christ University, with a focus on leveraging technology to solve complex challenges. Experience includes diverse projects in Machine Learning, Deep Learning, Large Language Models (LLM), SQL, and Power BI, which have strengthened analytical and technical skills. Possesses a solid foundation in data analysis techniques and data visualization toolsWith a solid understanding of data analysis techniques and data visualization tools, I am adept at interpreting data effectively and deriving actionable insights. I am eager to apply my skills and knowledge to contribute as a Data Analyst or Data Scientist in a forward-thinking organization, where I can learn, grow, and help drive data-driven decision-making.
+- 🌱 I’m currently learning GenAI
 
 
 ---
